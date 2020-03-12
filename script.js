@@ -16,7 +16,7 @@ console.log("I would say learning about debugging earlier in the course.");
 // what you expected to learn in this course?
 
 console.log("Did you learn what you expected to learn in this course?");
-console.log("");
+console.log("Yes I did. I feel like I now know the basics of not just Javascript, but programming as a whole.");
 
 // 4. Write a console.log() statement that answers the following question: What concepts
 // were new to you and what concepts had you encountered already in the past?
