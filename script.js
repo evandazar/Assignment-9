@@ -24,4 +24,4 @@ console.log("Yes I did. I feel like I now know the basics of not just Javascript
 console.log(
   "What concepts were new to you and what concepts had you encountered already in the past?"
 );
-console.log("I knew the bare bones of programmings like loops, if statements, arrays, functions, so on and so forth. I did not know about data structures and things like space and time complexity.");
+console.log("I knew the bare bones of programmings like loops, if statements, arrays, functions, so on and so forth. I did not know about the other data structures and things like space and time complexity.");
