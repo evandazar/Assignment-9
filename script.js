@@ -10,7 +10,7 @@ console.log("I feel that working together with other students helped me greatly 
 // change about the course?
 
 console.log("What would you change about the course?");
-console.log("");
+console.log("I would say learning about debugging earlier in the course.");
 
 // 3. Write a console.log() statement that answers the following question: Did you learn
 // what you expected to learn in this course?
